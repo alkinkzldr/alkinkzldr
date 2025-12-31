@@ -2,30 +2,19 @@
 
 **Software Engineering Student @ University of Stuttgart | Working Student @ Bosch**
 
-I'm love learning and building scalable solutions and exploring AI applications. Currently leading a GenAI-powered automation project at Bosch while studying Software Engineering. Also trying to expand my portfolio & knowledge with different project and in this era of AI, really understand and learn software engineering.
+I love learning and building scalable solutions and exploring AI applications. Currently leading a GenAI-powered automation project at Bosch while studying Software Engineering. Also trying to expand my portfolio & knowledge with different project and in this era of AI, really understand and learn software engineering.
 
-## 🔭 What I'm Working On
+## 💻 Current Projects
 
-- **AI Trading Council**: Multi-agent platform for stock market analysis with backtesting capabilities
-- **Multi-Model Council**: CLI application where different AI models (Claude, GPT-5, Llama, Phi...) chat and discuss about a topic with each other in real-time
-- **Cloud Deployer**: Our recent project as # The Saturday Coding Club, creating a self-service cloud deployment platform with AWS
-## 💼 Experience
-
-**Bosch Global Services** - Working Student (Feb 2024 - Present)
-- Leading GenAI automation project for customer feedback analysis
-- Developed Microsoft Teams app used by 100+ employees
-- Automated workflows
-
-**University of Stuttgart** - Student Tutor (Oct 2024 - Mar 2025)
-- Guided 50+ students throughout the semester
-- Assisted them at Testing, Debugging and Clean Code
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| **AI Trading Council** | Multi-agent stock market analysis platform | Python, Pandas, Finnhub API, yfinance | Implemented regime guardian to decide market's current status (30% complete) |
+| **AI Chat Arena** | Real-time conversations between AI models | CLI, Claude API, OpenAI API, Llama | Models discuss given topics (main functionality complete) |
+| **Cloud Deployer** | Self-service cloud deployment platform | AWS, Terraform, GitHub Actions, Python, JavaScript | v1.0.0 live - deploying basic Node.js apps |
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java • Python • JavaScript • SQL • HTML/CSS  
-**Frameworks:** Spring Boot • Vue.js  
-**Tools:** Docker • Git • Power Automate • n8n  
-**Databases:** PostgreSQL • MySQL • MariaDB
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40"/>
 
 ## 📫 Let's Connect
 

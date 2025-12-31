@@ -9,7 +9,7 @@ I love learning and building scalable solutions and exploring AI applications. C
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
 | **AI Trading Council** | Multi-agent stock market analysis platform | Python, Pandas, Finnhub API, yfinance | Implemented regime guardian to decide market's current status (30% complete) |
-| **AI Chat Arena** | Real-time conversations between AI models | CLI, Claude API, OpenAI API, Llama | Models discuss given topics (main functionality complete) |
+| **Multi Model Council** | Real-time conversations between AI models | CLI, Claude API, OpenAI API, Llama | Models discuss given topics (main functionality complete) |
 | **Cloud Deployer** | Self-service cloud deployment platform | AWS, Terraform, GitHub Actions, Python, JavaScript | v1.0.0 live - deploying basic Node.js apps |
 
 ## 🛠️ Tech Stack

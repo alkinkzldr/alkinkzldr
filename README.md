@@ -1,6 +1,6 @@
 # Hi, Alkin here 👋
 
-**Software Engineering Student @ University of Stuttgart | Working Student @ Bosch**
+**SWE @ University of Stuttgart | Working Student @ Bosch**
 
 I love learning and building scalable solutions and exploring AI applications. Currently leading a GenAI-powered automation project at Bosch while studying Software Engineering. Also trying to expand my portfolio & knowledge with different project and in this era of AI, really understand and learn software engineering.
 
